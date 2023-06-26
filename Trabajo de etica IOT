@@ -1,1 +1,127 @@
 Trabajo de Etica n 1 Correspondiendo a la evidencia 2 
+
+Realizar los primeros dos puntos del trabajo de Ética:
+¿Cómo se define el internet de las cosas?
+Respuesta: 
+Definición Literal: “La infraestructura global para la sociedad de la 
+información, permitiendo
+servicios avanzados para interconectar, tanto física como virtualmente, 
+cosas,
+basadas en tecnologías de información y las comunicaciones (TIC’s), a 
+través de la identificación de la información, captura de datos, 
+capacidades de comunicaciones y procesamientos. IoT hace un uso 
+integral de las cosas para ofrecer servicios para todo tipo de 
+aplicaciones mientras asegura que los requisitos de seguridad y 
+privacidad sean cumplidos. “
+El Internet de las Cosas (IoT) se refiere a la interconexión de objetos 
+físicos a través de internet, permitiendo la captura y transmisión de 
+datos. Se utiliza tanto en el sector privado como en el público, con 
+aplicaciones en la industria de producción en masa, control de 
+infraestructura urbana, monitoreo ambiental, sector salud, transporte e 
+industria energética.
+Sin embargo, en el mercado de consumo social, como los hogares, el 
+uso del IoT aún no está tan extendido como en otros sectores.
+Los más importantes son:
+La industria de la producción en masa: la maquinaria que se
+encarga de controlar los procesos de fabricación, robots
+ensambladores, sensores de temperatura, control de producción,
+etc.
+Control de infraestructura urbana: control de semáforos, puentes,
+vías del tren, cámaras urbanas.
+Control ambiental: Sensores atmosféricos, meteorológicos,
+sísmicos, etc.
+Sector salud: Monitoreo activo de pacientes de manera ambulatoria
+y no invasiva.
+Transporte: seguimiento satelital, control de estado de los
+automotores, autos conectados, etc.
+Industria energética: mejora y gestiona la demanda de electricidad e
+integra fuentes de energías renovables, mejorar el servicio al cliente
+y reducir el consumo energético.
+El gran pendiente en el mercado de consumo social, es decir, los 
+hogares,
+pero a poco surgen dispositivos como lámparas, cerraduras, 
+termostatos, etc.
+¿Cuáles son las ventajas y desventajas del uso de las IoT?
+Respuesta:
+Ventajas del uso de las IoT:
+Automatización y eficiencia:
+La IoT permite la automatización de procesos y tareas, lo que puede 
+mejorar la eficiencia y reducir los costos. Por ejemplo, en la industria, 
+los dispositivos IoT pueden controlar y optimizar los procesos de 
+producción, agilizando las operaciones y reduciendo los errores 
+humanos.
+Mejora de la calidad de vida: Los dispositivos IoT pueden facilitar la 
+monitorización y el control remoto de la salud, la seguridad y otros 
+aspectos de la vida cotidiana. Por ejemplo, los dispositivos de 
+seguimiento de actividad física y los asistentes de hogar inteligentes 
+brindan comodidad y promueven un estilo de vida más saludable.
+Conectividad y comunicación:
+La IoT proporciona una red de dispositivos conectados que pueden 
+comunicarse entre sí, lo que permite compartir datos e información de 
+manera más rápida y eficiente. Esto puede mejorar la coordinación en 
+sectores como el transporte, la logística y la gestión de ciudades 
+inteligentes.
+Innovación y nuevas oportunidades:
+La IoT crea nuevas oportunidades de negocio y fomenta la innovación 
+en diversos campos. Permite la creación de nuevos productos y 
+servicios que mejoran la calidad de vida de las personas, como el 
+desarrollo de dispositivos médicos avanzados, vehículos autónomos y 
+soluciones energéticas inteligentes.
+Dentro de Los marcos éticos y las buenas prácticas, explicadas en el 
+apunto del material cabe destacar :
+Los Marcos Éticos suelen basarse en tres principios:
+1) Transparencia: el público debe poder acceder de un modo fácil y libre 
+a las políticas, las acciones y los procesos de la organización 
+relacionados
+con los datos, en un formato claro y conciso, para poder entender como
+las empresas utilizan sus datos personales.
+2) Responsabilidad: por parte de las empresas y organizaciones en el
+manejo de la información.
+3) Equidad: garantiza que el uso de las organizaciones y/o empresas 
+hace con los datos es justo y no discrimina a ningún individuo o grupo 
+social.
+En el uso de las buenas prácticas para el uso de datos es importante 
+disponer de una solución de almacenamiento de datos sólida para 
+cumplir las normativas y los
+requisitos de seguridad y conformidad de los datos propuestos por la ley 
+aplicable.
+Podemos mencionar algunas características que debería cumplir.
+Control de acceso: ayuda a garantizar que el acceso a los datos esté
+estrictamente controlado y auditado, de manera que pueda realizarse
+un seguimiento fácil y preciso de cualquiera que acceda a los datos.
+Cifrado de datos: Es esencial para proteger los datos frente a riesgos
+como el ramsomware.
+Integridad de los datos: ayuda a proteger los datos de daños y
+manipulaciones.
+Conservación de los datos: Establece los plazos de conservación
+basándose en su política de conservación de datos, que fija de
+manera exacta que datos puede almacenar o archivar, donde,
+porque, durante cuánto tiempo y como se borran o se mueven.
+Desventajas del uso de las IoT:
+Privacidad y seguridad:
+El uso generalizado de dispositivos IoT implica una mayor recopilación 
+y transmisión de datos personales y sensibles. Esto plantea desafíos en 
+cuanto a la privacidad y la seguridad de los datos, ya que un acceso no 
+autorizado a la red IoT puede poner en riesgo la información personal y 
+la intimidad de las personas.
+Vulnerabilidades y ciberataques:
+Los dispositivos IoT a menudo carecen de medidas de seguridad 
+adecuadas, lo que los convierte en blancos atractivos para los 
+ciberdelincuentes. Las brechas de seguridad en los dispositivos IoT 
+pueden tener consecuencias graves, como el robo de datos, la 
+interrupción de servicios críticos o incluso el control malicioso de los 
+dispositivos.
+Dependencia de la conectividad:
+El funcionamiento de los dispositivos IoT depende de una conexión a 
+internet estable. Si se produce una interrupción de la conectividad, ya 
+sea por fallos técnicos o por problemas de infraestructura, los 
+dispositivos pueden dejar de funcionar correctamente.
+Complejidad y barreras técnicas:
+La implementación y gestión de una red IoT puede ser compleja y 
+requiere conocimientos técnicos especializados. Esto puede ser una 
+barrera para la adopción generalizada de la tecnología, especialmente 
+en organizaciones con recursos limitados.
+Es importante abordar estas desventajas a través de políticas de 
+seguridad robustas, estándares de privacidad, actualizaciones de 
+software regulares y conciencia sobre las mejores prácticas en el uso de 
+dispositivos IoT.
